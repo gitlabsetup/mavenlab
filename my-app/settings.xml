@@ -4,14 +4,14 @@
                       https://maven.apache.org/xsd/settings-1.0.0.xsd">
   <servers>
     <server>
-      <id>mavenlab</id>
+      <id>myapp-user</id>
       <username>mavenuser</username>
-      <password>admin123</password>
+      <password>mavenuser</password>
     </server>
     <server>
-      <id>mavenlab-snapshot</id>
+      <id>myapp-user-snapshot</id>
       <username>mavenuser</username>
-      <password>admin123</password>
+      <password>mavenuser</password>
     </server>
   </servers>
   <profiles>
